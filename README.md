@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Vibe+Coder;WordPress+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Vibe+Coder;Prompt+Engineer"/>
 </p>
 
 ---
