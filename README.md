@@ -16,8 +16,8 @@
 
 ```yaml
 Name       : Tayyeb Abdullah
-Role       : Full Stack Web Developer | Vibe Coder | WordPress Developer
-Experience : Full Stack Development & WordPress Customization
+Role       : Full Stack Web Developer | Vibe Coder | Prompt Engineer
+Experience : Full Stack Development & Prompt Engineering
 Focus      : Modern UI/UX + Responsive Web Experiences
 Mission    : Building clean, scalable & impactful digital products
 ```
